@@ -19,7 +19,7 @@ html {
 
 a {
     text-decoration: none;
-    font-size: 24px;
+    font-size: 35px;
 }
 
 ul {
@@ -223,7 +223,7 @@ nav ul li a:hover {
 .project-list div a {
     text-decoration: none;
     color: #fff;
-    font-size: 22px;
+    font-size: 30px;
     margin-top: 20px;
     display: inline-block;
 }
@@ -242,10 +242,10 @@ nav ul li a:hover {
 
 }
 .project-list div p{
-    font-size: 24px;
+    font-size: 35px;
 }
 .project-list div h2{
-    font-size: 27px;
+    font-size: 40px;
 }
 
 
@@ -276,7 +276,7 @@ nav ul li a:hover {
 
 .about-text h2 {
     color: white;
-    font-size: 75px;
+    font-size: 80px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
@@ -284,7 +284,7 @@ nav ul li a:hover {
 .about-text h5 {
     color: white;
     letter-spacing: 2px;
-    font-size: 26px;
+    font-size: 31px;
     margin-bottom: 25px;
     text-transform: capitalize;
 }
@@ -293,7 +293,7 @@ nav ul li a:hover {
     color: #fff;
     letter-spacing: 1px;
     line-height: 28px;
-    font-size: 28px;
+    font-size: 33px;
     margin-bottom: 45px;
 }
 
@@ -309,7 +309,7 @@ h1 {
 
 h3 {
     margin: 5px;
-font-size: 25px;
+font-size: 35px;
 }
 
 .skill {
