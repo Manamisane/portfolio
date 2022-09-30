@@ -164,7 +164,9 @@ nav ul li a:hover {
 
 .hero img {
     height: auto;
-        width: 430px;
+        width: 400px;
+        border-radius: 200px;
+      
   }
 
 /* Keyframes*/
@@ -284,7 +286,7 @@ nav ul li a:hover {
 .about-text h5 {
     color: white;
     letter-spacing: 2px;
-    font-size: 35px;
+    font-size: 31px;
     margin-bottom: 25px;
     text-transform: capitalize;
 }
@@ -551,12 +553,12 @@ font-size: 35px;
 
 .contact_info .infoBox div p {
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .contact_info .infoBox div a {
     color: #fff;
-    font-size: 30px;
+    font-size: 25px;
     text-decoration: none;
 }
 
