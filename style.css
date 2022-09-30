@@ -166,7 +166,8 @@ nav ul li a:hover {
     height: auto;
         width: 400px;
         border-radius: 200px;
-      
+        margin-right: 35px;
+        
   }
 
 /* Keyframes*/
